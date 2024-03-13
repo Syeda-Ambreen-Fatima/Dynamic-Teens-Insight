@@ -1,0 +1,63 @@
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: right;
+    font-size: 17px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 3px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: #11e655;
+}
+
+.corner-text {
+    position: absolute;
+    top: 15px;
+    left: 9px;
+    color: #f4f0f0;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.h1{
+    text-align: center;
+    font-family: Georgia;
+    font-size: 50px;
+    font-weight: 650;
+    
+}
+.intro{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium';
+    text-align: left;
+    font-weight: 400;
+}
+#ved{
+    border: 5px solid black;
+    border-radius: 4px;
+}
+.aut{
+    font-family: Impact;
+    font-size: 30px;
+    font-weight: 200;
+    text-align: right;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    margin-top: auto; /* Push the footer to the bottom */
+}
+.ing{
+    width: 500px;
+}
